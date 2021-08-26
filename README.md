@@ -6,17 +6,16 @@
 
 🏢 Working at [Arcurve](https://www.arcurve.com/) as a SWE intern over the summer
 
-🌄 Exploring the realms of game development in Unity
-
 🚀 Looking for challenging new opportunities
+
+🌄 Exploring the realms of game development in Unity
 
 💤 Catching up on some sleep 😪
  
 
  
- 
- 
- 
+
+---
  
  
 P.S. I love meeting new people 😝 
