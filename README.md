@@ -1,5 +1,5 @@
-## Hey there, my name is Luke! 👋😄
-
+### Hey there, my name is Luke! 👋😄
+---
 ### **Currently I am..**
 ####
 💯 A 3rd year Software/Biomedical Engineering student at the University of Calgary
