@@ -3,13 +3,16 @@
 #### **Currently I am..**
 💯 A Software/Biomedical Engineering student at the University of Calgary
 
-🏢 Working at [Arcurve](https://www.arcurve.com/) as a SWE intern over the summer
-
 🚀 Looking for challenging new opportunities
 
 🌄 Exploring the realms of game development in Unity
 
 💤 Catching up on some sleep 😪
+##
+#### **Past Experiences:**
+🏢 Software Developer Intern @ [Arcurve](https://www.arcurve.com/) - Summer 2022
+
+🏢 Full Stack Developer Intern @ [KnowHow](https://tryknowhow.com/) - Summer 2021
 
 ## 
 P.S. I love meeting new people 😝 
