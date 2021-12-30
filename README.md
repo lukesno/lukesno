@@ -1,8 +1,6 @@
 ### Hey there 👋😄
 
 #### **Currently I am..**
-⚡ A SWE intern at Tesla for Spring 2022
-
 💯 A Software/Biomedical Engineering student at the University of Calgary
 
 🚀 Looking for challenging new opportunities
@@ -12,6 +10,8 @@
 💤 Catching up on some sleep 😪
 ##
 #### **Past Experiences:**
+🏢 Software Developer Intern @ [Tesla](https://www.tesla.com/) - Spring 2022
+
 🏢 Software Developer Intern @ [Arcurve](https://www.arcurve.com/) - Summer 2022
 
 🏢 Full Stack Developer Intern @ [KnowHow](https://tryknowhow.com/) - Summer 2021
