@@ -1,6 +1,8 @@
 ### Hey there 👋😄
 
 #### **Currently I am..**
+⚡ A SWE intern at Tesla for Spring 2022
+
 💯 A Software/Biomedical Engineering student at the University of Calgary
 
 🚀 Looking for challenging new opportunities
