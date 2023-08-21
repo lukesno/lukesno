@@ -10,6 +10,8 @@
 💤 Catching up on some sleep 😪
 ##
 #### **Past Experiences:**
+🏢 Software Engineer Intern @ [Roblox](https://www.roblox.com/) - Summer 2023
+
 🏢 Software Engineer Intern @ [Coinbase](https://www.coinbase.com/dashboard) - Summer 2022
 
 🏢 Software Developer Intern @ [Tesla](https://www.tesla.com/) - Spring 2022
